@@ -27,5 +27,7 @@ Change the first line of the code (`processBOM.py`)
 Call the python script:
 `$ processBOM.py`
 
+Note that it will *overwrite* the original file.
+
 #### Next Steps
 Improve code to run as `$ processBOM.py mypathoflist.txt`
